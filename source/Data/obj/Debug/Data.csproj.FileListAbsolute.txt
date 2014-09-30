@@ -1,0 +1,7 @@
+C:\Data\Dropbox\Source Code\Lab\ObjectToObjectMapping\Sandbox.ObjectObjectMapping\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Data\Dropbox\Source Code\Lab\ObjectToObjectMapping\Sandbox.ObjectObjectMapping\Data\bin\Debug\Demo.Data.dll
+C:\Data\Dropbox\Source Code\Lab\ObjectToObjectMapping\Sandbox.ObjectObjectMapping\Data\bin\Debug\Demo.Data.pdb
+C:\Data\Dropbox\Source Code\Lab\ObjectToObjectMapping\Sandbox.ObjectObjectMapping\Data\obj\Debug\Demo.Data.dll
+C:\Data\Dropbox\Source Code\Lab\ObjectToObjectMapping\Sandbox.ObjectObjectMapping\Data\obj\Debug\Demo.Data.pdb
+C:\Data\Dropbox\Source Code\Lab\ObjectToObjectMapping\Sandbox.ObjectObjectMapping\Data\bin\Debug\SimpleMapper.dll
+C:\Data\Dropbox\Source Code\Lab\ObjectToObjectMapping\Sandbox.ObjectObjectMapping\Data\bin\Debug\SimpleMapper.pdb

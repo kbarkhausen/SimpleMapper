@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7E54AAC3-23BC-4C4E-BE29-6975996700C5}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		Sandbox.ObjectObjectMapping.vsmdi = Sandbox.ObjectObjectMapping.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{7E2A528D-7F6C-47AB-8165-E0A454424CFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{089046A7-86E3-4C61-B3CD-D27F36E9A755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMapper", "SimpleMapper\SimpleMapper.csproj", "{DCD576E9-5E35-43FF-9360-DF34D137BBC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E2A528D-7F6C-47AB-8165-E0A454424CFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2A528D-7F6C-47AB-8165-E0A454424CFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2A528D-7F6C-47AB-8165-E0A454424CFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2A528D-7F6C-47AB-8165-E0A454424CFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{089046A7-86E3-4C61-B3CD-D27F36E9A755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{089046A7-86E3-4C61-B3CD-D27F36E9A755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{089046A7-86E3-4C61-B3CD-D27F36E9A755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{089046A7-86E3-4C61-B3CD-D27F36E9A755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCD576E9-5E35-43FF-9360-DF34D137BBC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD576E9-5E35-43FF-9360-DF34D137BBC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD576E9-5E35-43FF-9360-DF34D137BBC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD576E9-5E35-43FF-9360-DF34D137BBC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Sandbox.ObjectObjectMapping.vsmdi
+	EndGlobalSection
+EndGlobal
